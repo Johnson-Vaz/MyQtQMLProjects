@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Journey_Component.qml</file>
+        <file>Battery_Component.qml</file>
+        <file>Weather_Component.qml</file>
+        <file>Overview_Component.qml</file>
+        <file>Main_Component.qml</file>
+        <file>images/battery.png</file>
+        <file>images/batteryfilled.png</file>
+        <file>images/car.png</file>
+        <file>images/flag.png</file>
+        <file>images/gps.png</file>
+        <file>images/rain.png</file>
+        <file>images/speed.png</file>
+        <file>images/speedometer.png</file>
+        <file>images/sunny.png</file>
+        <file>images/temperature.png</file>
+        <file>images/wheel.png</file>
+        <file>images/wheel2.png</file>
+    </qresource>
+</RCC>
